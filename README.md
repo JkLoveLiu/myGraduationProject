@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+毕业设计后台管理系统的VUE前端。
